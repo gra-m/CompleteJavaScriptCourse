@@ -1,0 +1,3 @@
+https://www.npmjs.com/package/live-server
+
+node installed? type live-server in terminal and navigate to specific html.
